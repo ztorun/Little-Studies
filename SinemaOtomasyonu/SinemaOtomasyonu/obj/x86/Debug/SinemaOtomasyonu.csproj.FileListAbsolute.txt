@@ -1,0 +1,17 @@
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.Aktor.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.Anaform.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.Bilet.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.FilmSecimi.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.Kullanici.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.exe
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.pdb
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.YoneticiPaneli.resources
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.csproj.ResolveComReference.cache
+C:\Users\zeyneptrn\Documents\Visual Studio 2010\Projects\SinemaOtomasyonu\SinemaOtomasyonu\obj\x86\Debug\SinemaOtomasyonu.deneme.resources
