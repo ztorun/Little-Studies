@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - KitapKulübü</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body background="~/Content/resimler/arkaplan2.png">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                @* <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>*@
+                @Html.ActionLink("KİTAP KULÜBÜ", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("ANASAYFA", "Index", "Home")</li>
+                    <li>@Html.ActionLink("KİTAPLAR", "Books", "Home")</li>
+                    <li>@Html.ActionLink("ETKİNLİKLER", "Activity", "Home")</li>
+                    <li>@Html.ActionLink("HAKKIMIZDA", "About", "Home")</li>
+                    <li>@Html.ActionLink("İLETİŞİM", "Contact", "Home")</li>
+
+                    <li>@Html.ActionLink("Admin", "Admin", "Home")</li>
+                </ul>
+                <form class="navbar-form navbar-right" role="search">
+                           <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Arama Yapmak İçin..">
+                    </div>
+                    <button type="submit" class="btn btn-default">ARA</button>
+                    <a rel="nofollow" onclick="window.open('http://www.google.com/translate?hl='+'en&amp;sl=auto&amp;tl=en&amp;u='+encodeURIComponent(location.href)); return false;"><img class="flag" alt="English (US)" src="http://3.bp.blogspot.com/-FGO7VcaGgFQ/Tz0QFujGicI/AAAAAAAABEA/qmDWisZ4KfU/s1600/English-Language-Flag-1-icon-3.png" title="English (US)" /></a>
+                    <a rel="nofollow" onclick="window.open('http://www.google.com/translate?hl='+'en&amp;sl=auto&amp;tl=de&amp;u='+encodeURIComponent(location.href)); return false;"><img class="flag" alt="Deutsch" src="http://1.bp.blogspot.com/-OqVGXmqoiO0/TvcPxxMDScI/AAAAAAAAAoc/iWozawb8caw/s1600/Germany.png" title="Deutsch" /></a>
+
+                  
+                </form>
+           </div>
+        </div>
+    </div>
+    <div class="container body-content ">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div class="row">
+                <div class="col-md-9">&copy; Copyright @DateTime.Now.Year - KitapKulübü
+                
+ </div>
+                <div class="col-md-3">
+                    <a href="https://www.facebook.com/zynptorun" target=new><img src="http://in.sitekodlari.com/fb/facebook9.png" border="0"></a> 
+                    <a href="http://twitter.com/https://twitter.com/kitapkulubum" target=new><img src="http://in.sitekodlari.com/tw/22.gif" border="0"></a>
+                    <a href="http://Instagram.com/https://www.instagram.com/kitapklubu/" target=new><img src="http://in.sitekodlari.com/insta/4.png" border="0"></a>
+
+                  </div>
+            
+            </div>
+        
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+ 
+</body>
+</html>

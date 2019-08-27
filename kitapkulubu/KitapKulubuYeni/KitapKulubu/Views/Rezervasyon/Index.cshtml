@@ -1,0 +1,51 @@
+﻿@model IEnumerable<KitapKulubu.Models.Rezervasyon>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.baslangicTar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.bitisTar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kitaplar.kitapAd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kullanicilar.kullaniciAd)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.baslangicTar)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.bitisTar)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kitaplar.kitapAd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kullanicilar.kullaniciAd)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.RezervasyonID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.RezervasyonID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.RezervasyonID })
+        </td>
+    </tr>
+}
+
+</table>

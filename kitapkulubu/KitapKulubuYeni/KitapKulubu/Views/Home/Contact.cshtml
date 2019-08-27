@@ -1,0 +1,109 @@
+﻿@{
+    ViewBag.Title = "İletişim";
+}
+
+
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            <h4>Adresimiz</h4>
+        </div>
+        <div class="panel-body">
+            <div class="col-md-6">
+                <address>
+                    <br/><br /><br /><br /><br />
+                    Cumhuriyet Mahallesi, Burak Sokak. No:11,
+                    54100 Adapazarı/Sakarya <br />
+                    <abbr title="Phone">P:</abbr>+90 (264) 225 25 25<br />
+                    <abbr title="Email">P:</abbr>zeyneptorun94@gmail.com<br />
+                    <abbr title="Email">P:</abbr>zeyneptorun@kitapkulubu.com.tr
+                </address>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-danger">
+                    <div class="panel-heading">
+                        <h4>Mail Gönder</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div class="contact-form">
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label">Adınız Soyadınız *</label>
+                                <input id="adsoyad" type="text" name="name" class="form-control" placeholder="Adınız Soyadınız *">
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label">Eposta Adresiniz *</label>
+                                <input id="eposta" type="text" name="name" class="form-control" placeholder="Eposta Adresiniz *">
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label">Mesajınız *</label>
+                                @Html.TextArea("Mesaj", null, new { @class = "form-control", placeholder = "Mesajınız", rows = 6, columns = 40 })
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="col-sm-offset-4 btn btn-primary">Gönder</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="panel-body">
+                <div class="contact-map">
+                    <div class="google-map-canvas" id="map-canvas" style="height: 500px;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+    function initialize() {
+
+        var myLatlng = new google.maps.LatLng(40.741223, 30.332890);
+        var mapOptions = {
+            zoom: 15,
+            center: myLatlng
+        }
+        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            animation: google.maps.Animation.DROP
+        });
+    }
+
+    function loadScript() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d755.3240347298306!2d30.39614311565538!3d40.77750324776697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ccb32cdd9993ed%3A0x9a47d5730f2d6434!2sMM+Migros!5e0!3m2!1str!2str!4v1480017825645" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>' +
+            'callback=initialize';
+        document.body.appendChild(script);
+    }
+
+    window.onload = loadScript;
+</script><script>
+    function initialize() {
+
+        var myLatlng = new google.maps.LatLng(40.741223, 30.332890);
+        var mapOptions = {
+            zoom: 15,
+            center: myLatlng
+        }
+        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            animation: google.maps.Animation.DROP
+        });
+    }
+
+    function loadScript() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&' +
+            'callback=initialize';
+        document.body.appendChild(script);
+    }
+
+    window.onload = loadScript;
+</script>

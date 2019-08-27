@@ -1,0 +1,50 @@
+﻿@model KitapKulubu.Models.Rezervasyon
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Rezervasyon</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.baslangicTar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.baslangicTar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.bitisTar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.bitisTar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kitaplar.kitapAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kitaplar.kitapAd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kullanicilar.kullaniciAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kullanicilar.kullaniciAd)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.RezervasyonID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,205 @@
+﻿@{
+    ViewBag.Title = "Kitaplar";
+}
+<div class="col-md-12">
+    <div class="row">
+        <div class="panel-body">
+            <fieldset style="background-color:lavenderblush">
+                <div class="col-md-4">
+                    <br />
+                    <label class="col-md-4 control-label">Kitap Durumu:</label>
+                     <input type="radio" name="gender" value="TumK">Tüm Kitaplar<br>
+                    <input type="radio" name="gender" value="REdilen"> Rezerve Edilme<br>
+                    <input type="radio" name="gender" value="Redilmeyen"> Rezerve Edilenler<br><br />
+                </div>
+                <div class="col-md-4">
+                    <br />
+                    <label class="col-md-4 control-label">Yazar Adı:</label>
+                    <input class="col-md-8" type="text" id="yazarAdi">
+                    <br /><br />
+                    <label class="col-md-4 control-label">Eser Adı:</label>
+                    <input class="col-md-8" type="text" id="yazarAdi"><br />
+                </div>
+                <div class="col-md-4">
+                    <br />
+                    <label class="col-md-4 control-label">Eser Türü: </label>
+                    <select class="col-md-8">
+                        <option value="Secim">Bir Seçim Yapın</option>
+                        <option value="Tarihi">Tarihi</option>
+                        <option value="Bilimsel">Bilimsel</option>
+                        <option value="Romantik">Romantik</option>
+                        <option value="Fantastik">Fantastik</option>
+                    </select><br /><br />
+                    <input type="submit" style="margin-left:50px" value="Gönder">
+                </div>
+            </fieldset>
+        </div>
+    </div>
+    <div class="row">
+        <div class="panel-body">
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="row" style="height:160px;">
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="~/Content/resimler/turklerınTarihi.png" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <h4><a href="etiket">Türklerin Tarihi </a> </h4>
+                                <p>İçerik: Koca bir kavmin binlerce kilometreyi üç asır içinde geçtiğini düşünün...</p>
+                                Yazar: ilber ortaylı<br />
+                                <input type="checkbox" name="vehicle">Rezerve et<br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="row" style="height:160px;">
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="~/Content/resimler/KanadıKırıkKuslar.png" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <h4> <a href="etiket">Kanadı Kırık Kuşlar </a> </h4>
+                                <p> 1930'ların Almanyası... Nazilerin baskısından bunalan Yahudi asıllı tıp doktoru...</p>
+                                Yazar: Ayşe Kulin<br />
+                                <input type="checkbox" name="vehicle">Rezerve et<br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="row" style="height:160px;">
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="~/Content/resimler/sevdalinka.png" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <h4> <a href="etiket">Sevdalinka </a> </h4>
+                                <p> Aynı ırktan, kim bilir belki de aynı soydan geliyorlardı. Aynı yaşlarda, aynı...</p>
+                                Yazar: Ayşe Kulin<br />
+                                <input type="checkbox" name="vehicle">Rezerve et<br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="panel-body">
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <div class="row" style="height:160px;">
+                                    <div class="col-md-4">
+                                        <img class="img-responsive" src="~/Content/resimler/turklerınTarihi.png" alt="" />
+                                    </div>
+                                    <div class="col-md-8">
+                                        <h4><a href="etiket">Türklerin Tarihi </a> </h4>
+                                        <p>İçerik: Koca bir kavmin binlerce kilometreyi üç asır içinde geçtiğini düşünün...</p>
+                                        Yazar: ilber ortaylı<br />
+                                        <input type="checkbox" name="vehicle">Rezerve et<br>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <div class="row" style="height:160px;">
+                                    <div class="col-md-4">
+                                        <img class="img-responsive" src="~/Content/resimler/KanadıKırıkKuslar.png" alt="" />
+                                    </div>
+                                    <div class="col-md-8">
+                                        <h4> <a href="etiket">Kanadı Kırık Kuşlar </a> </h4>
+                                        <p> 1930'ların Almanyası... Nazilerin baskısından bunalan Yahudi asıllı tıp doktoru...</p>
+                                        Yazar: Ayşe Kulin<br />
+                                        <input type="checkbox" name="vehicle">Rezerve et<br>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <div class="row" style="height:160px;">
+                                    <div class="col-md-4">
+                                        <img class="img-responsive" src="~/Content/resimler/sevdalinka.png" alt="" />
+                                    </div>
+                                    <div class="col-md-8">
+                                        <h4> <a href="etiket">Sevdalinka </a> </h4>
+                                        <p> Aynı ırktan, kim bilir belki de aynı soydan geliyorlardı. Aynı yaşlarda, aynı...</p>
+                                        Yazar: Ayşe Kulin<br />
+                                        <input type="checkbox" name="vehicle">Rezerve et<br>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="panel-body">
+                            <div class="col-md-4">
+                                <div class="panel panel-default">
+                                    <div class="panel-body">
+                                        <div class="row" style="height:160px;">
+                                            <div class="col-md-4">
+                                                <img class="img-responsive" src="~/Content/resimler/turklerınTarihi.png" alt="" />
+                                            </div>
+                                            <div class="col-md-8">
+                                                <h4><a href="etiket">Türklerin Tarihi </a> </h4>
+                                                <p>İçerik: Koca bir kavmin binlerce kilometreyi üç asır içinde geçtiğini düşünün...</p>
+                                                Yazar: ilber ortaylı<br />
+                                                <input type="checkbox" name="vehicle">Rezerve et<br>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="panel panel-default">
+                                    <div class="panel-body">
+                                        <div class="row" style="height:160px;">
+                                            <div class="col-md-4">
+                                                <img class="img-responsive" src="~/Content/resimler/KanadıKırıkKuslar.png" alt="" />
+                                            </div>
+                                            <div class="col-md-8">
+                                                <h4> <a href="etiket">Kanadı Kırık Kuşlar </a> </h4>
+                                                <p> 1930'ların Almanyası... Nazilerin baskısından bunalan Yahudi asıllı tıp doktoru...</p>
+                                                Yazar: Ayşe Kulin<br />
+                                                <input type="checkbox" name="vehicle">Rezerve et<br>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="panel panel-default">
+                                    <div class="panel-body">
+                                        <div class="row" style="height:160px;">
+                                            <div class="col-md-4">
+                                                <img class="img-responsive" src="~/Content/resimler/sevdalinka.png" alt="" />
+                                            </div>
+                                            <div class="col-md-8">
+                                                <h4> <a href="etiket">Sevdalinka </a> </h4>
+                                                <p> Aynı ırktan, kim bilir belki de aynı soydan geliyorlardı. Aynı yaşlarda, aynı...</p>
+                                                Yazar: Ayşe Kulin<br />
+                                                <input type="checkbox" name="vehicle">Rezerve et<br>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

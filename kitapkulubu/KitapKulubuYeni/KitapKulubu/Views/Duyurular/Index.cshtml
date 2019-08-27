@@ -1,0 +1,45 @@
+﻿@model IEnumerable<KitapKulubu.Models.Duyurular>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>İçerik</h2>
+
+<p>
+    @Html.ActionLink("Yeni Oluştur", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.duyuruBaslik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.duyuruIcerik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.duyuruTar)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.duyuruBaslik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.duyuruIcerik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.duyuruTar)
+        </td>
+        <td>
+            @Html.ActionLink("Düzenle", "Edit", new { id=item.DuyuruID }) |
+            @Html.ActionLink("Ayrıntılar", "Details", new { id=item.DuyuruID }) |
+            @Html.ActionLink("Sil", "Delete", new { id=item.DuyuruID })
+        </td>
+    </tr>
+}
+
+</table>

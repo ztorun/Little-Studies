@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KitapKulubuModelStoreContainer" CdmEntityContainer="KitapKulubuEntities">
+    <EntitySetMapping Name="Duyurular">
+      <EntityTypeMapping TypeName="KitapKulubuModel.Duyurular">
+        <MappingFragment StoreEntitySet="Duyurular">
+          <ScalarProperty Name="DuyuruID" ColumnName="DuyuruID" />
+          <ScalarProperty Name="duyuruBaslik" ColumnName="duyuruBaslik" />
+          <ScalarProperty Name="duyuruIcerik" ColumnName="duyuruIcerik" />
+          <ScalarProperty Name="duyuruTar" ColumnName="duyuruTar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Etkinlikler">
+      <EntityTypeMapping TypeName="KitapKulubuModel.Etkinlikler">
+        <MappingFragment StoreEntitySet="Etkinlikler">
+          <ScalarProperty Name="EtkinlikID" ColumnName="EtkinlikID" />
+          <ScalarProperty Name="etkinlikBaslik" ColumnName="etkinlikBaslik" />
+          <ScalarProperty Name="etkinlikIcerik" ColumnName="etkinlikIcerik" />
+          <ScalarProperty Name="bitisTar" ColumnName="bitisTar" />
+          <ScalarProperty Name="baslangicTar" ColumnName="baslangicTar" />
+          <ScalarProperty Name="resim" ColumnName="resim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kitaplar">
+      <EntityTypeMapping TypeName="KitapKulubuModel.Kitaplar">
+        <MappingFragment StoreEntitySet="Kitaplar">
+          <ScalarProperty Name="KitapID" ColumnName="KitapID" />
+          <ScalarProperty Name="kitapAd" ColumnName="kitapAd" />
+          <ScalarProperty Name="yazar" ColumnName="yazar" />
+          <ScalarProperty Name="Kategori" ColumnName="Kategori" />
+          <ScalarProperty Name="sayfasayisi" ColumnName="sayfasayisi" />
+          <ScalarProperty Name="yayinevi" ColumnName="yayinevi" />
+          <ScalarProperty Name="icerik" ColumnName="icerik" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="kitapFoto" ColumnName="kitapFoto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanicilar">
+      <EntityTypeMapping TypeName="KitapKulubuModel.Kullanicilar">
+        <MappingFragment StoreEntitySet="Kullanicilar">
+          <ScalarProperty Name="KullaniciID" ColumnName="KullaniciID" />
+          <ScalarProperty Name="kullaniciAd" ColumnName="kullaniciAd" />
+          <ScalarProperty Name="kullanıcıSoyad" ColumnName="kullanıcıSoyad" />
+          <ScalarProperty Name="mailAdres" ColumnName="mailAdres" />
+          <ScalarProperty Name="dogumTar" ColumnName="dogumTar" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="kullaniciTur" ColumnName="kullaniciTur" />
+          <ScalarProperty Name="girisAdı" ColumnName="girisAdı" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rezervasyon">
+      <EntityTypeMapping TypeName="KitapKulubuModel.Rezervasyon">
+        <MappingFragment StoreEntitySet="Rezervasyon">
+          <ScalarProperty Name="RezervasyonID" ColumnName="RezervasyonID" />
+          <ScalarProperty Name="KitapID" ColumnName="KitapID" />
+          <ScalarProperty Name="KullanicilarID" ColumnName="KullanicilarID" />
+          <ScalarProperty Name="baslangicTar" ColumnName="baslangicTar" />
+          <ScalarProperty Name="bitisTar" ColumnName="bitisTar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="KitapKulubuModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

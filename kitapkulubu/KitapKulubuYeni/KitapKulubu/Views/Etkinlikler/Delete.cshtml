@@ -1,0 +1,64 @@
+﻿@model KitapKulubu.Models.Etkinlikler
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Etkinlikler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.etkinlikBaslik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.etkinlikBaslik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.etkinlikIcerik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.etkinlikIcerik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.bitisTar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.bitisTar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.baslangicTar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.baslangicTar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.resim)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.resim)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

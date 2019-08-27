@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KitapKulubuModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Duyurular">
+    <Key>
+      <PropertyRef Name="DuyuruID" />
+    </Key>
+    <Property Name="DuyuruID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="duyuruBaslik" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="duyuruIcerik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="duyuruTar" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Etkinlikler">
+    <Key>
+      <PropertyRef Name="EtkinlikID" />
+    </Key>
+    <Property Name="EtkinlikID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="etkinlikBaslik" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="etkinlikIcerik" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="bitisTar" Type="DateTime" Precision="3" />
+    <Property Name="baslangicTar" Type="DateTime" Precision="3" />
+    <Property Name="resim" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="KitapID" />
+    </Key>
+    <Property Name="KitapID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kitapAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="yazar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Kategori" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="sayfasayisi" Type="Int32" />
+    <Property Name="yayinevi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="icerik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="adet" Type="Int32" />
+    <Property Name="kitapFoto" Type="Binary" MaxLength="50" FixedLength="false" />
+    <NavigationProperty Name="Rezervasyon" Relationship="Self.FK_Rezervasyon_Kitaplar" FromRole="Kitaplar" ToRole="Rezervasyon" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kullaniciAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="kullanıcıSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mailAdres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="dogumTar" Type="DateTime" Precision="3" />
+    <Property Name="telefon" Type="Int32" />
+    <Property Name="kullaniciTur" Type="Boolean" Nullable="false" />
+    <Property Name="girisAdı" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="sifre" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Rezervasyon" Relationship="Self.FK_Rezervasyon_Kullanicilar" FromRole="Kullanicilar" ToRole="Rezervasyon" />
+  </EntityType>
+  <EntityType Name="Rezervasyon">
+    <Key>
+      <PropertyRef Name="RezervasyonID" />
+    </Key>
+    <Property Name="RezervasyonID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KitapID" Type="Int32" Nullable="false" />
+    <Property Name="KullanicilarID" Type="Int32" Nullable="false" />
+    <Property Name="baslangicTar" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="bitisTar" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Kitaplar" Relationship="Self.FK_Rezervasyon_Kitaplar" FromRole="Rezervasyon" ToRole="Kitaplar" />
+    <NavigationProperty Name="Kullanicilar" Relationship="Self.FK_Rezervasyon_Kullanicilar" FromRole="Rezervasyon" ToRole="Kullanicilar" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Rezervasyon_Kitaplar">
+    <End Role="Kitaplar" Type="Self.Kitaplar" Multiplicity="1" />
+    <End Role="Rezervasyon" Type="Self.Rezervasyon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kitaplar">
+        <PropertyRef Name="KitapID" />
+      </Principal>
+      <Dependent Role="Rezervasyon">
+        <PropertyRef Name="KitapID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rezervasyon_Kullanicilar">
+    <End Role="Kullanicilar" Type="Self.Kullanicilar" Multiplicity="1" />
+    <End Role="Rezervasyon" Type="Self.Rezervasyon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanicilar">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Rezervasyon">
+        <PropertyRef Name="KullanicilarID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KitapKulubuEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Duyurular" EntityType="Self.Duyurular" />
+    <EntitySet Name="Etkinlikler" EntityType="Self.Etkinlikler" />
+    <EntitySet Name="Kitaplar" EntityType="Self.Kitaplar" />
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" />
+    <EntitySet Name="Rezervasyon" EntityType="Self.Rezervasyon" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_Rezervasyon_Kitaplar" Association="Self.FK_Rezervasyon_Kitaplar">
+      <End Role="Kitaplar" EntitySet="Kitaplar" />
+      <End Role="Rezervasyon" EntitySet="Rezervasyon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rezervasyon_Kullanicilar" Association="Self.FK_Rezervasyon_Kullanicilar">
+      <End Role="Kullanicilar" EntitySet="Kullanicilar" />
+      <End Role="Rezervasyon" EntitySet="Rezervasyon" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

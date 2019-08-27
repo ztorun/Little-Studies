@@ -1,0 +1,82 @@
+﻿@model KitapKulubu.Models.Kitaplar
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Kitaplar</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.kitapAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.kitapAd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.yazar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.yazar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kategori)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kategori)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sayfasayisi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sayfasayisi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.yayinevi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.yayinevi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.icerik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.icerik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.adet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.adet)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.kitapFoto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.kitapFoto)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.KitapID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

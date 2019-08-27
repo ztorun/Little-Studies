@@ -1,0 +1,48 @@
+﻿@model KitapKulubu.Models.Duyurular
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Sil</h2>
+
+<h3>Silmek istediğine emin misin?</h3>
+<div>
+    <h4>Duyurular</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.duyuruBaslik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.duyuruBaslik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.duyuruIcerik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.duyuruIcerik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.duyuruTar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.duyuruTar)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

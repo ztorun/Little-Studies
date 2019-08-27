@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "ADMİN";
+}
+@model List<KitapKulubu.Models.Kullanicilar>
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Admin Panel</h4>
+                </div>
+                <div class="panel-body" >
+                    <button type="button" class="btn btn-link btn-lg">
+                        <span class="glyphicon glyphicon-user"></span> @Html.ActionLink("Profilim", "Index", "Admin")
+                    </button>
+                    <button type="button" class="btn btn-link btn-lg">
+                        <span class="glyphicon glyphicon-education"></span> @Html.ActionLink("Kitap Ayarları", "Index", "Kitaplar")
+                    </button>
+
+                    <button type="button" class="btn btn-link btn-lg">
+                        <span class="glyphicon glyphicon-sunglasses"></span>@Html.ActionLink("Üye Bilgileri", "Index", "Kullanicilar")
+                    </button>
+                    <button type="button" class="btn btn-link btn-lg">
+                        <span class="glyphicon glyphicon-star"></span> @Html.ActionLink("Etkinlikler", "Index", "Etkinlikler")
+                    </button>
+                    <button type="button" class="btn btn-link btn-lg">
+                        <span class="glyphicon glyphicon-bullhorn"></span>@Html.ActionLink("Duyurular", "Index", "Duyurular")
+                    </button>
+            </div>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Kişisel Bilgilerim:</h4>
+                </div>
+                    <div class="panel-body">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th class="col-lg-2">Ad:</th>
+                                    <th class="col-lg-2">Soyad</th>
+                                    <th class="col-lg-2">E-Posta:</th>
+                                    <th class="col-lg-2">Doğum Tarihi:</th>
+                                    <th class="col-lg-2">Telefon:</th>
+                                    <th class="col-lg-2">Şifre:</th>
+
+                                    
+                                </tr>
+                            </thead>
+                            <tbody>
+                               
+                          </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>

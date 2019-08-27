@@ -1,0 +1,58 @@
+﻿@model KitapKulubu.Models.Etkinlikler
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Etkinlikler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.etkinlikBaslik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.etkinlikBaslik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.etkinlikIcerik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.etkinlikIcerik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.bitisTar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.bitisTar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.baslangicTar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.baslangicTar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.resim)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.resim)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EtkinlikID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

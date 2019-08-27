@@ -1,0 +1,75 @@
+﻿@model IEnumerable<KitapKulubu.Models.Kitaplar>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.kitapAd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.yazar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kategori)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sayfasayisi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.yayinevi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.icerik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.adet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.kitapFoto)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.kitapAd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.yazar)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kategori)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sayfasayisi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.yayinevi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.icerik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.adet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.kitapFoto)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.KitapID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.KitapID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.KitapID })
+        </td>
+    </tr>
+}
+
+</table>

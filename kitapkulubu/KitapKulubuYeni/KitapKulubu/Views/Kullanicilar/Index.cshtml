@@ -1,0 +1,75 @@
+﻿@model IEnumerable<KitapKulubu.Models.Kullanicilar>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.kullaniciAd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.kullanıcıSoyad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.mailAdres)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dogumTar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.telefon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.kullaniciTur)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.girisAdı)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sifre)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.kullaniciAd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.kullanıcıSoyad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.mailAdres)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dogumTar)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.telefon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.kullaniciTur)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.girisAdı)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sifre)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.KullaniciID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.KullaniciID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.KullaniciID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KitapKulubuModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Duyurular">
+    <Key>
+      <PropertyRef Name="DuyuruID" />
+    </Key>
+    <Property Name="DuyuruID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="duyuruBaslik" Type="nvarchar" MaxLength="50" />
+    <Property Name="duyuruIcerik" Type="nvarchar(max)" />
+    <Property Name="duyuruTar" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Etkinlikler">
+    <Key>
+      <PropertyRef Name="EtkinlikID" />
+    </Key>
+    <Property Name="EtkinlikID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="etkinlikBaslik" Type="nvarchar" MaxLength="50" />
+    <Property Name="etkinlikIcerik" Type="nvarchar" MaxLength="50" />
+    <Property Name="bitisTar" Type="datetime" />
+    <Property Name="baslangicTar" Type="datetime" />
+    <Property Name="resim" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="KitapID" />
+    </Key>
+    <Property Name="KitapID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kitapAd" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="yazar" Type="nvarchar" MaxLength="50" />
+    <Property Name="Kategori" Type="nvarchar" MaxLength="25" />
+    <Property Name="sayfasayisi" Type="int" />
+    <Property Name="yayinevi" Type="nvarchar" MaxLength="50" />
+    <Property Name="icerik" Type="nvarchar(max)" />
+    <Property Name="adet" Type="int" />
+    <Property Name="kitapFoto" Type="varbinary" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kullaniciAd" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="kullanıcıSoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="mailAdres" Type="nvarchar" MaxLength="50" />
+    <Property Name="dogumTar" Type="datetime" />
+    <Property Name="telefon" Type="int" />
+    <Property Name="kullaniciTur" Type="bit" Nullable="false" />
+    <Property Name="girisAdı" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="sifre" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Rezervasyon">
+    <Key>
+      <PropertyRef Name="RezervasyonID" />
+    </Key>
+    <Property Name="RezervasyonID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KitapID" Type="int" Nullable="false" />
+    <Property Name="KullanicilarID" Type="int" Nullable="false" />
+    <Property Name="baslangicTar" Type="datetime" Nullable="false" />
+    <Property Name="bitisTar" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Rezervasyon_Kitaplar">
+    <End Role="Kitaplar" Type="Self.Kitaplar" Multiplicity="1" />
+    <End Role="Rezervasyon" Type="Self.Rezervasyon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kitaplar">
+        <PropertyRef Name="KitapID" />
+      </Principal>
+      <Dependent Role="Rezervasyon">
+        <PropertyRef Name="KitapID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rezervasyon_Kullanicilar">
+    <End Role="Kullanicilar" Type="Self.Kullanicilar" Multiplicity="1" />
+    <End Role="Rezervasyon" Type="Self.Rezervasyon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanicilar">
+        <PropertyRef Name="KullaniciID" />
+      </Principal>
+      <Dependent Role="Rezervasyon">
+        <PropertyRef Name="KullanicilarID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KitapKulubuModelStoreContainer">
+    <EntitySet Name="Duyurular" EntityType="Self.Duyurular" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Etkinlikler" EntityType="Self.Etkinlikler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kitaplar" EntityType="Self.Kitaplar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rezervasyon" EntityType="Self.Rezervasyon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Rezervasyon_Kitaplar" Association="Self.FK_Rezervasyon_Kitaplar">
+      <End Role="Kitaplar" EntitySet="Kitaplar" />
+      <End Role="Rezervasyon" EntitySet="Rezervasyon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rezervasyon_Kullanicilar" Association="Self.FK_Rezervasyon_Kullanicilar">
+      <End Role="Kullanicilar" EntitySet="Kullanicilar" />
+      <End Role="Rezervasyon" EntitySet="Rezervasyon" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
