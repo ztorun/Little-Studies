@@ -1,0 +1,234 @@
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+c:\users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\aykut\documents\visual studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+C:\Users\aykut\Desktop\Yeni klasör\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\aykut\Documents\Visual Studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+C:\Users\aykut\Documents\Visual Studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+C:\Users\aykut\Documents\Visual Studio 2010\Projects\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+C:\Users\aykut\Desktop\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+G:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+D:\Proje\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+D:\DOSYALAR\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+D:\DOSYALAR\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+D:\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+C:\Users\aykut\Desktop\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+D:\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+D:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+G:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+G:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+E:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+F:\DOSYALAR\Projem ögrenci-okul takip\Proje bitmiş hal\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+E:\Yazılımla İlgili\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+E:\Yazılımla İlgili\EskiProjeler\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.exe
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\bin\Debug\ÖgrenciTakipSistemi.pdb
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ayarlar.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ders_Programı_Duzenle.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Form1.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Okul_Takip.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Properties.Resources.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Sınav_Ekle.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.YeniŞifre.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ödev_Ekle.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ÖgrenciTakip.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Ekle.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.Ögretmen_Modu_Tasarla.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.ŞifremiUnuttum.resources
+C:\Users\zeyneptrn\Desktop\ögrenci okul takip\ÖgrenciTakipSistemi\ÖgrenciTakipSistemi\obj\x86\Debug\ÖgrenciTakipSistemi.csproj.GenerateResource.Cache

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Ogr_BilgiSistemiModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Ogr_BilgiSistemiEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="TblAkademik" EntityType="Ogr_BilgiSistemiModel.TblAkademik" />
+    <EntitySet Name="Uye" EntityType="Ogr_BilgiSistemiModel.Uye" />
+  </EntityContainer>
+  <EntityType Name="TblAkademik">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="OgrNo" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Dersvehocalar" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Yariyil" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Vize1" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Vize2" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Final" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Ortalama" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Harfliortalama" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Uye">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Tc" Type="String" Nullable="false" MaxLength="11" Unicode="false" FixedLength="false" />
+    <Property Name="OgrenciNo" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Ad" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Soyad" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Sifre" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="DogumTarih" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

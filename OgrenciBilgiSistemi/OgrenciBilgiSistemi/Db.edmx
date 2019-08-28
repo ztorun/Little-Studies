@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Ogr_BilgiSistemiModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="Ogr_BilgiSistemiModelStoreContainer">
+          <EntitySet Name="TblAkademik" EntityType="Ogr_BilgiSistemiModel.Store.TblAkademik" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Uye" EntityType="Ogr_BilgiSistemiModel.Store.Uye" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="TblAkademik">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="OgrNo" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Dersvehocalar" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Yariyil" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="Vize1" Type="nvarchar" MaxLength="50" />
+          <Property Name="Vize2" Type="nvarchar" MaxLength="50" />
+          <Property Name="Final" Type="nvarchar" MaxLength="50" />
+          <Property Name="Ortalama" Type="nvarchar" MaxLength="50" />
+          <Property Name="Harfliortalama" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Uye">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Tc" Type="varchar" Nullable="false" MaxLength="11" />
+          <Property Name="OgrenciNo" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Ad" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Soyad" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Sifre" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="DogumTarih" Type="datetime" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Ogr_BilgiSistemiModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="Ogr_BilgiSistemiEntities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="TblAkademik" EntityType="Ogr_BilgiSistemiModel.TblAkademik" />
+          <EntitySet Name="Uye" EntityType="Ogr_BilgiSistemiModel.Uye" />
+        </EntityContainer>
+        <EntityType Name="TblAkademik">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="OgrNo" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Dersvehocalar" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Yariyil" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Vize1" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Vize2" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Final" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Ortalama" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Harfliortalama" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Uye">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Tc" Type="String" Nullable="false" MaxLength="11" Unicode="false" FixedLength="false" />
+          <Property Name="OgrenciNo" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Ad" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Soyad" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Sifre" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="DogumTarih" Type="DateTime" Precision="3" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Ogr_BilgiSistemiModelStoreContainer" CdmEntityContainer="Ogr_BilgiSistemiEntities">
+          <EntitySetMapping Name="TblAkademik">
+            <EntityTypeMapping TypeName="Ogr_BilgiSistemiModel.TblAkademik">
+              <MappingFragment StoreEntitySet="TblAkademik">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="OgrNo" ColumnName="OgrNo" />
+                <ScalarProperty Name="Dersvehocalar" ColumnName="Dersvehocalar" />
+                <ScalarProperty Name="Yariyil" ColumnName="Yariyil" />
+                <ScalarProperty Name="Vize1" ColumnName="Vize1" />
+                <ScalarProperty Name="Vize2" ColumnName="Vize2" />
+                <ScalarProperty Name="Final" ColumnName="Final" />
+                <ScalarProperty Name="Ortalama" ColumnName="Ortalama" />
+                <ScalarProperty Name="Harfliortalama" ColumnName="Harfliortalama" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Uye">
+            <EntityTypeMapping TypeName="Ogr_BilgiSistemiModel.Uye">
+              <MappingFragment StoreEntitySet="Uye">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Tc" ColumnName="Tc" />
+                <ScalarProperty Name="OgrenciNo" ColumnName="OgrenciNo" />
+                <ScalarProperty Name="Ad" ColumnName="Ad" />
+                <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+                <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+                <ScalarProperty Name="DogumTarih" ColumnName="DogumTarih" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

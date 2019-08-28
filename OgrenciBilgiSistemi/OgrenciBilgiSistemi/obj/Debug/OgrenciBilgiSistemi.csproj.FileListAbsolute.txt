@@ -1,0 +1,126 @@
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Uyelik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DrsProg.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DrsProg.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Uyelik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DrsProg.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Uyelik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DrsProg.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Uyelik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikTkvim.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Devamsizlik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.NotGorntleme.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sinavprog.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AdminPaneli.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikGiriş.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AdminPaneli.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikGiriş.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikTkvim.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Devamsizlik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DrsProg.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.NotGorntleme.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sinavprog.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Uyelik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AdminPaneli.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikGiriş.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikTkvim.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Devamsizlik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DrsProg.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.NotGorntleme.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sinavprog.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Uyelik.resources
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\RdlCompile.cache
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\RdlCompile.compiled
+C:\Users\Aziz\Desktop\OgrenciBilgiSistemiBitiş\20.12.2013-en son\OgrenciBilgiSistemi\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Rapor.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AdminPaneli.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikGiriş.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademikTkvim.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Devamsizlik.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DrsProg.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form1.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Form2.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Rapor.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.NotGorntleme.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Sinavprog.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Uyelik.resources
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\RdlCompile.cache
+C:\Users\zeyneptrn\Desktop\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\RdlCompile.compiled

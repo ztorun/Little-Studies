@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0E8CD773-F8D8-4117-BB62-ECDA2547A8C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ÖgrenciTakipSistemi</RootNamespace>
+    <AssemblyName>ÖgrenciTakipSistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayarlar.Designer.cs">
+      <DependentUpon>Ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ders Programı Duzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ders Programı Duzenle.Designer.cs">
+      <DependentUpon>Ders Programı Duzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Okul Takip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Okul Takip.Designer.cs">
+      <DependentUpon>Okul Takip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="point.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sınav Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sınav Ekle.Designer.cs">
+      <DependentUpon>Sınav Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniŞifre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniŞifre.Designer.cs">
+      <DependentUpon>YeniŞifre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ödev Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ödev Ekle.Designer.cs">
+      <DependentUpon>Ödev Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ÖgrenciTakip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ÖgrenciTakip.Designer.cs">
+      <DependentUpon>ÖgrenciTakip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ögretmen Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ögretmen Ekle.Designer.cs">
+      <DependentUpon>Ögretmen Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ögretmen_Modu_Tasarla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ögretmen_Modu_Tasarla.Designer.cs">
+      <DependentUpon>Ögretmen_Modu_Tasarla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ŞifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ŞifremiUnuttum.Designer.cs">
+      <DependentUpon>ŞifremiUnuttum.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ayarlar.resx">
+      <DependentUpon>Ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ders Programı Duzenle.resx">
+      <DependentUpon>Ders Programı Duzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Okul Takip.resx">
+      <DependentUpon>Okul Takip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Sınav Ekle.resx">
+      <DependentUpon>Sınav Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniŞifre.resx">
+      <DependentUpon>YeniŞifre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ödev Ekle.resx">
+      <DependentUpon>Ödev Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ÖgrenciTakip.resx">
+      <DependentUpon>ÖgrenciTakip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ögretmen Ekle.resx">
+      <DependentUpon>Ögretmen Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ögretmen_Modu_Tasarla.resx">
+      <DependentUpon>Ögretmen_Modu_Tasarla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ŞifremiUnuttum.resx">
+      <DependentUpon>ŞifremiUnuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

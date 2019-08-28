@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Ogr_BilgiSistemiModelStoreContainer" CdmEntityContainer="Ogr_BilgiSistemiEntities">
+    <EntitySetMapping Name="TblAkademik">
+      <EntityTypeMapping TypeName="Ogr_BilgiSistemiModel.TblAkademik">
+        <MappingFragment StoreEntitySet="TblAkademik">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="OgrNo" ColumnName="OgrNo" />
+          <ScalarProperty Name="Dersvehocalar" ColumnName="Dersvehocalar" />
+          <ScalarProperty Name="Yariyil" ColumnName="Yariyil" />
+          <ScalarProperty Name="Vize1" ColumnName="Vize1" />
+          <ScalarProperty Name="Vize2" ColumnName="Vize2" />
+          <ScalarProperty Name="Final" ColumnName="Final" />
+          <ScalarProperty Name="Ortalama" ColumnName="Ortalama" />
+          <ScalarProperty Name="Harfliortalama" ColumnName="Harfliortalama" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Uye">
+      <EntityTypeMapping TypeName="Ogr_BilgiSistemiModel.Uye">
+        <MappingFragment StoreEntitySet="Uye">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Tc" ColumnName="Tc" />
+          <ScalarProperty Name="OgrenciNo" ColumnName="OgrenciNo" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="DogumTarih" ColumnName="DogumTarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
